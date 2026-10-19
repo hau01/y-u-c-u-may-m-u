@@ -1,0 +1,6 @@
+{
+  "name": "NBT - Hệ Thống Quản Lý Quy Trình & Duyệt May Mẫu",
+  "description": "Hệ thống quản lý quy trình doanh nghiệp Nhà Bè Trading (NBT), phân hệ Tạo mã đơn hàng tự động và Quy trình duyệt may mẫu đa cấp theo tiêu chuẩn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

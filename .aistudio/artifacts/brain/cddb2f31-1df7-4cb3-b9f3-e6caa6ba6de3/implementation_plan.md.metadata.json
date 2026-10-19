@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch triển khai nâng cấp module Yêu Cầu May Mẫu NBT:\n1. Chỉnh sửa chi tiết mặt hàng trực tiếp dạng ô tính Excel Sheet (in-cell editable grid) kèm phân quyền chỉ người tạo và phụ trách được chỉnh sửa.\n2. Thêm hệ thống trao đổi nội bộ / Chat kèm lưu vết lịch sử, hỗ trợ @gắn thẻ nhân sự và tự động kích hoạt gửi email thông báo chi tiết (người gửi, thời gian, nội dung, link trang web).\n3. Tinh gọn bảng danh sách: loại bỏ 3 cột KD gửi, Phụ trách, BGĐ duyệt; chuẩn hóa cột trạng thái thành 8 trạng thái chuẩn theo chỉ đạo.",
+  "updatedAt": "2026-10-16T06:27:15.341330558Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
